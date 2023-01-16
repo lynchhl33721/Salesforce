@@ -1,0 +1,45 @@
+1. Salesforce Platform Basics
+2. Follow the developer beginner trailhead
+       Get Started with Platform Development
+
+lynchhl
+
+TP = Trailhead Playground  (VM?)
+sign up for a trailhead - automatically creates a TP
+
+https://trailhead.salesforce.com/trails/learn_salesforce_with_trailhead/modules/trailhead_playground_management
+
+https://developer.salesforce.com/forums?communityId=09aF00000004HMGIA2#!/feedtype=RECENT&dc=Trailhead&criteria=ALLQUESTIONS
+https://trailhead.salesforce.com/en/trails/learn_salesforce_with_trailhead
+https://www.salesforce.com/form/trailhead/mytrailhead-contact/
+https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000EFpAtUAL
+
+
+
+trail > module > unit
+
+Badge
+module = subject.  broken down into units
+project = series of hands on steps then validation
+
+rank - progress points (scout > hiker, etc...)
+
+credential:  certs (proctored exam) and superbadges (work hands-on in a trailhead playground)
+superset=group of superbadges
+
+trailmix - customized mix of modules (can be shared)
+
+today page - your launch pad
+
+topic - allows you to collaborate and see related learning
+
+group
+
+
+
+
+
+
+
+
+
